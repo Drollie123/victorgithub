@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="=JUciCYl]/XR%n.3Uv5s">kompas</variable></variables><block type="device_forever" id="-feM0gbuzigb2Yi;FTVN" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="hNHdvGX!9AxK~Hg*+^yu"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="G?V;oq|[w#]AnBHc61(B"><field name="i">IconNames.Heart</field></block></next></block></statement></block><block type="device_print_message" id="L79W[|oc*|NxKSCT9]W|" disabled="true" x="723" y="-2"><value name="text"><shadow type="text" id=",d0F{KH(3$iz5s+!`4TL" disabled="true"><field name="TEXT">Victor</field></shadow></value></block></xml>
